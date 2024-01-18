@@ -1,8 +1,8 @@
-group 'com.peakysoftware.plugin_wifi_connect'
+8goup 'com.peakysoftware.plugin_wifi_connect'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.9.10'
+    ext.kotlin_version = '1.8.0'
     repositories {
         google()
         jcenter()
